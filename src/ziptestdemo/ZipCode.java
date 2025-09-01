@@ -5,8 +5,10 @@
 package ziptestdemo;
 
 /**
- *
- * @author John Lab_01: Review OOP 25/08/2025
+ * Github Link: https://github.com/Johnnyboi9907/Lab-01-ProgramDev.git
+ * @author John Alexiou
+ * Lab_01: Review OOP
+ * 25/08/2025
  */
 import java.util.HashMap;
 
